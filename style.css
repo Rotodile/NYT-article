@@ -193,3 +193,119 @@
       color: #333;
       margin-top: -10%;
   }
+
+  .main {
+    font-size: 1.1875rem;
+    line-height: 1.75rem;
+  }
+
+  .first {
+     position: relative;
+  }
+
+  .first-text {
+    font-family: helvetica,arial,sans-serif;
+    position: absolute;
+    top: 120px;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    color: #000000;
+    width: 173px;
+  }
+
+  .boldy {
+      font-weight: 700;
+  }
+
+  .second-text {
+    font-family: helvetica,arial,sans-serif;
+    position: absolute;
+    top: 120px;
+    left: 180px;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    color: #000000;
+    width: 173px; 
+  }
+
+  .third-text {
+    font-family: helvetica,arial,sans-serif;
+    position: absolute;
+    top: 120px;
+    left: 360px;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    color: #000000;
+    width: 173px; 
+  }
+
+  .fourth-text {
+    font-family: helvetica,arial,sans-serif;
+    position: absolute;
+    top: 120px;
+    left: 550px;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    color: #000000;
+    width: 173px; 
+  }
+
+  .fifth-text {
+    font-family: helvetica,arial,sans-serif;
+    position: absolute;
+    top: 420px;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    color: #000000;
+    width: 173px; 
+  }
+
+  .sixth-text {
+    font-family: helvetica,arial,sans-serif;
+    position: absolute;
+    top: 420px;
+    left: 180px;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    color: #000000;
+    width: 173px; 
+  }
+
+  .seventh-text {
+    font-family: helvetica,arial,sans-serif;
+    position: absolute;
+    top: 420px;
+    left: 360px;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    color: #000000;
+    width: 173px; 
+  }
+
+  .eigth-text {
+    font-family: helvetica,arial,sans-serif;
+    position: absolute;
+    top: 420px;
+    left: 550px;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    color: #000000;
+    width: 173px; 
+  }
+
+  .footer {
+    font-family: helvetica,arial,sans-serif;
+    font-size: 14px;
+  }
+
+  .b-heading {
+    font-size: 20px;
+  }
