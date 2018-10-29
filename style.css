@@ -22,7 +22,7 @@
       font-size: 14px;
   }
 
-  img {
+  .title-img {
       margin: 0;
       width: 200px;
       height: 26px;
@@ -84,4 +84,11 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 700;
     font-style: italic;
+    margin-bottom: 20px;
+  }
+
+  .article-title {
+      margin-left: 8%;
+      width: 1200px;
+      height: 675px;
   }
