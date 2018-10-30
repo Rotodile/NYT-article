@@ -309,3 +309,212 @@
   .b-heading {
     font-size: 20px;
   }
+
+  .discription {
+    color: #666;
+    font-size: 11px;
+    line-height: 1.125rem;
+  }
+
+  .comment-button {
+    width: 330px;
+    height: 36px;
+    margin-left: 5px;
+  }
+
+  .bottom {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .extra-section {
+    width: 851px;
+  }
+
+  .extra-title {
+    font-family: helvetica,arial,sans-serif;
+  }
+
+  .more-articles {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .more-images {
+    width: 272px;
+    height: 181px;
+  }
+
+  .more-discription {
+    margin-top: 5px;
+    width: 272px;
+  }
+
+  .more-heading {
+    width: 272px;
+    font-weight: 500;
+  }
+
+  .flex-section {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .sidebar {
+    border-bottom: 1px solid #e2e2e2;
+    padding: 15px 0;
+  }
+
+  .footer-content {
+    display: flex;
+    border-top: double #e2e2e2;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+  }
+
+  .nyt-footer {
+    margin-top: 5px;
+    width: 184px;
+    height: 24px;
+  }
+
+  .bottom-ad {
+    margin-bottom: 40px;
+    margin-left: 15%;
+  }
+
+  h5 {
+    font-family: helvetica,arial,sans-serif;
+  }
+
+  .footer-top {
+    display: flex;
+    flex-flow: row nowrap;
+  }
+
+  .goto {
+    color: rgb(98, 136, 165);
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 11px;
+    text-decoration: none;
+  }
+
+  .goto-container {
+    margin: 18px 0px 0px auto;
+  }
+
+  .footer-first-row {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0%;
+  }
+
+  .footer-first-row a {
+    color: rgb(0, 0, 0);
+    display: inline-block;  
+    text-decoration: none;
+    font-family: helvetica,arial,sans-serif;
+    text-transform: capitalize;
+    width: 150px;
+    font-size: 14px;
+    font-weight: 500;
+    height: 23px;
+    line-height: 16px;
+  }
+
+  .footer-first-row a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  .flex-column {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    padding-bottom: 10px;
+  }
+
+  .last {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: helvetica,arial,sans-serif;
+    text-transform: capitalize;
+    width: 150px;
+    font-size: 16px;
+    height: 23px;
+    font-weight: 700;
+    line-height: 16px;
+  }
+
+  .last:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  .subscribe-div {
+    border-left: 1px solid rgb(226, 226, 226);
+    padding-left: 15px;
+  }
+
+  .subscribe-div a {
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    text-decoration: none;
+    width: 150px;
+    font-size: 11px;
+    font-weight: 500;
+    height: 23px;
+    line-height: 21px;
+  }
+
+  .education {
+    border-bottom: 1px solid rgb(226, 226, 226);
+    padding-bottom: 10px;
+  }
+
+  .mobile {
+    padding-top: 10px;
+  }
+
+  .footer-last-content {
+    border-top: 1px solid rgb(226, 226, 226);
+    padding-top: 10px;
+    color: rgb(226, 226, 226);
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .footer-last-content a {
+    color: rgb(153, 153, 153);
+    font-family: helvetica, arial, sans-serif;
+    padding: 10px 0px;
+    text-decoration: none;
+    font-size: 11px;
+    margin-left: 10px;
+  }
+
+  .footer-last-content a:hover {
+    text-decoration: underline;
+  }
+
+  .small-icons {
+    width: 12px;
+    margin-right: 5px;
+    margin-top: -8px;
+  }
+
+  .home-del {
+    display: flex;
+    margin-top: -20px;
+    margin-bottom: -30px;
+  }
+
+  .cooking {
+    margin-bottom: 1px;
+  }
